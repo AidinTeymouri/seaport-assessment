@@ -15,7 +15,7 @@ function Main() {
     },
   })
 
-  if (loading) return <p>Loading...</p>
+  if (loading) return <p>Seaport asessment is Loading, please wait...</p>
   if (error) return <p>Error!</p>
 
   return (
